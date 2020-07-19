@@ -1,6 +1,6 @@
 ## Introduction
+Helps in purchasing second hand books and also sell unused books in this site
 
-This is a simple Todo application built off Django (including the Django REST Framework for API CRUD operations) and React.
 
 ## Requirements
 * Python3
